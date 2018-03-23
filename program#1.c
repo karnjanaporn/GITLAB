@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("Hello karnjanaporn");
-	printf("my name is Ravict kodlor");
+	printf("aunnyonghaseyo~ karnjanaporn");
+	printf("my name is karnjanaporn same jaa~");
 }
